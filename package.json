@@ -1,0 +1,26 @@
+{
+  "name": "loja-virtual-nodejs",
+  "version": "1.0.0",
+  "description": "Loja virtual com produtos e usuarios e login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennety-anderson/loja-virtual-nodejs.git"
+  },
+  "author": "kennety Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennety-anderson/loja-virtual-nodejs/issues"
+  },
+  "homepage": "https://github.com/kennety-anderson/loja-virtual-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "colors": "^1.3.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10",
+    "nodemon": "^1.18.9"
+  }
+}

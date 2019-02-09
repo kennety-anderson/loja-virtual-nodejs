@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav div {
+    margin-left: 10%;
+    font-size: 115%;
+}
+
+nav [data-registro] {
+    font-size: 88%;
+    margin-top: auto;
+}
+
+footer {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 35px;
+}
